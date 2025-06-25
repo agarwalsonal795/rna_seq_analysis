@@ -1,18 +1,4 @@
-# Group Repository for the Data Science Mini-Project (EMATM0050)
-
-## Please edit the fields below with your information
-Group Number: T21
-
-Problem Assigned: Problem A: Exploring the Transcriptomic Landscape of Mouse Gastrulation : A Single Cell RNA-Seq Analysis Challenge
-
-Group Members:
-- Sonal Agarwal
-- Rishabh Sajin
-- Anirudh Nair
-- Dee Uchaeva
-
-
----
+**Exploring the Transcriptomic Landscape of Mouse Gastrulation : A Single Cell RNA-Seq Analysis Challenge**
 
 ## Overview
 
